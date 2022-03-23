@@ -1,4 +1,4 @@
-package com.servicemanagment.demo;
+package com.servicemanagment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

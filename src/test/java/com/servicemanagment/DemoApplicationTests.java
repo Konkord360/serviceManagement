@@ -1,4 +1,4 @@
-package com.servicemanagment.demo;
+package com.servicemanagment;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
